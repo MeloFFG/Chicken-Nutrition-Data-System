@@ -1,0 +1,4 @@
+Experiment_ID,Group_ID,Cage_ID,Day,Tissue,FA_Name,FA_Value
+123,123,4,1,124,124,11.0
+FA21,1,1C,21,Breast,C14:0,1.0
+FA21,1,1D,21,Breast,C14:0,1.0
